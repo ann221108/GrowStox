@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2E8B57"             # SeaGreen for buttons/accents
+backgroundColor = "#F1F8F5"          # Soft green-tinted white
+secondaryBackgroundColor = "#FFFFFF" # Pure white for widgets
+textColor = "#0B3D2E"                # Dark green text
+font = "sans serif"
